@@ -46,7 +46,7 @@
 
 ---
 ### 🎯 What I Can Do
-- 🤖 **Architect & develop software**: Scalable applications, AI agents, and autonomous workflows (Python, MCP, LangGraph, n8n)
+- 🤖 **Architect & develop software**: Scalable applications, AI agents, and autonomous workflows (Python, LangGraph, n8n)
 - ☁️ **Build cloud infrastructure**: Scalable IaC, K8s clusters & serverless architectures (AWS, K8s, Docker)
 - ⚡ **Engineer robust systems**: High-performance applications (Rust, Java, Go, C++)
 - 🔒 **Secure full-stack solutions**: With auth, payments & real-time capabilities (MERN, Nuxt + Supabase)
