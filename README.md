@@ -1,5 +1,5 @@
 ## 🚀 Pragyan Mehrotra 
-### Cloud-Native AI Engineer & Software Developer  
+### AI Engineer & Software Developer  
 `Building intelligent systems • Optimizing everything • Professional debugger` 🛠️☕  
 ![Profile Views](https://komarev.com/ghpvc/?username=pragyanmehrotra&color=blueviolet&style=flat-square)
 
